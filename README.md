@@ -1,39 +1,37 @@
-# Editor-texto-Csharp
 
-# CRUD em C# com Windows Forms e PostgreSQL
+# 📝 Editor de Texto em C# com Windows Forms
 
-Este projeto foi desenvolvido durante meus estudos em programação e marcou meu primeiro contato com a integração entre C# e um banco de dados PostgreSQL.
+Este projeto foi desenvolvido durante meus estudos em programação e teve como objetivo colocar em prática meus conhecimentos em **C# e Windows Forms**.
 
-A proposta foi criar uma aplicação desktop simples, utilizando Windows Forms, para colocar em prática os conceitos básicos de um CRUD e compreender melhor como funciona a comunicação entre uma interface gráfica e um banco de dados.
+A proposta foi criar um editor de texto simples, explorando o desenvolvimento de aplicações desktop e compreendendo melhor como funciona a interação entre uma interface gráfica e as funcionalidades implementadas no código.
 
 ## 💻 Sobre o projeto
 
-O sistema permite realizar as quatro operações fundamentais de um CRUD (*Create, Read, Update e Delete*), utilizando uma interface desenvolvida em Windows Forms.
+O sistema consiste em um **editor de texto desenvolvido em C#**, utilizando Windows Forms para a construção da interface gráfica.
 
-Por ser um dos meus primeiros projetos com essas tecnologias, o foco principal foi entender o funcionamento de cada operação e como os dados são enviados, consultados e modificados no PostgreSQL.
+Por ser um projeto de estudos, o foco principal foi praticar a utilização dos componentes visuais, trabalhar com eventos e entender melhor como desenvolver uma aplicação funcional para Windows.
 
 ## ⚙️ Funcionalidades
 
-- Cadastrar: inserir novos registros no banco de dados.
-- Consultar: visualizar os registros cadastrados.
-- Atualizar: editar informações de registros existentes.
-- Excluir: remover registros do banco de dados.
+- **Edição de texto:** permite escrever e modificar conteúdos por meio da interface.
+- **Interface gráfica:** utilização dos componentes do Windows Forms para interação com o usuário.
+- **Interação por eventos:** execução de ações a partir dos comandos realizados pelo usuário.
 
 ## 🛠️ Tecnologias utilizadas
 
-- C# — linguagem utilizada no desenvolvimento da aplicação.
-- Windows Forms — criação da interface gráfica.
-- PostgreSQL — armazenamento e gerenciamento dos dados.
-- Npgsql — comunicação entre a aplicação C# e o PostgreSQL.
-- Visual Studio Community — ambiente utilizado no desenvolvimento.
+- **C#** — linguagem utilizada no desenvolvimento da aplicação.
+- **Windows Forms** — criação da interface gráfica.
+- **.NET** — plataforma utilizada para o desenvolvimento.
+- **Visual Studio Community** — ambiente utilizado no desenvolvimento.
 
 ## 📚 Aprendizados
 
-O desenvolvimento deste projeto foi importante para consolidar meus conhecimentos iniciais em C# e dar os primeiros passos na integração de aplicações com bancos de dados relacionais.
+O desenvolvimento deste projeto foi importante para aprimorar meus conhecimentos iniciais em C# e compreender melhor a criação de aplicações desktop.
 
-Durante o processo, pude compreender melhor como as operações de um CRUD funcionam na prática, desde a interação do usuário com a interface até a execução dos comandos no banco de dados.
+Durante o processo, pude explorar o funcionamento dos componentes do Windows Forms, praticar a programação orientada a eventos e desenvolver minha familiaridade com a organização do código.
 
 Mesmo sendo uma aplicação básica, foi uma experiência importante para minha evolução nos estudos de desenvolvimento de software.
 
+---
 
 **Projeto desenvolvido para fins de estudo e prática.**
